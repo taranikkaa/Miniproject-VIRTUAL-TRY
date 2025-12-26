@@ -45,9 +45,8 @@ Features of the Virtual AI Try-On Stylist Project:
 * Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+<img width="472" height="478" alt="image" src="https://github.com/user-attachments/assets/51aaaec9-a960-46a5-8e5d-768596a396a5" />
 
 
 ## Output
